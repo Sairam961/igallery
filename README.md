@@ -73,8 +73,8 @@ Publish the website in the given URL.
             document.getElementById("modal").style.display = "none";
         }
     </script>
-</body>
-</html>
+    </body>
+    </html>
 
 ## OUTPUT:
 
