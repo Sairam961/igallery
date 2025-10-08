@@ -55,7 +55,7 @@ Publish the website in the given URL.
 
         </div>
          <div style="display: inline-block;" onclick="openModal(this)"> 
-         <img width="194" height="259" alt="image" src="Spiderman_PS4_cover.jpg" />
+         <img width="194" height="259" alt="image" src="Spider-Man_PS4_cover.jpg" />
          </div>
 
 
