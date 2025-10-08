@@ -54,6 +54,11 @@ Publish the website in the given URL.
         <img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/9873ff4e-c4fb-4862-bb47-6efb84c8f839" />
 
         </div>
+         <div style="display: inline-block;" onclick="openModal(this)"> 
+         <img width="194" height="259" alt="image" src="Spiderman_PS4_cover.jpg" />
+         </div>
+
+
     </div>
 
     <div id="modal" style="display: none; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9);">
@@ -77,7 +82,10 @@ Publish the website in the given URL.
     </html>
 
 ## OUTPUT:
-<img width="1280" height="362" alt="image" src="https://github.com/user-attachments/assets/f44aae8d-90ae-4628-a6da-8fb31d5a53fd" />
+<img width="1280" height="325" alt="image" src="https://github.com/user-attachments/assets/b1f65f49-95d6-441b-ab9c-94cb3828e0e5" />
+
+<img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/ec866aa0-f5ce-4797-b483-e49d9af74e26" />
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
